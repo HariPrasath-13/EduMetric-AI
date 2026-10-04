@@ -1,0 +1,8 @@
+{
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "fakeharish13@gmail.com",
+  "smtp_password": "ctmv rvck acvy zjpx",
+  "smtp_use_tls": true,
+  "sender_name": "EduMetric AI Security"
+}
